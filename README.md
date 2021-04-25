@@ -1,4 +1,8 @@
-### Hi there 👋
+### hi there! 👋
+- ⚡ aspiring front-end dev! ・ she/her ・ se asian
+- 🌱 i'm currently learning javascript!
+- 🔭 hope to learn more from other awesome devs here on github :)
+- 🐦 @katjam4321
 
 <!--
 **snekk-stack/snekk-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
